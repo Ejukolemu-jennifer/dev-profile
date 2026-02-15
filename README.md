@@ -1,0 +1,4 @@
+skills:
+-python
+-Git
+-FastAPI
